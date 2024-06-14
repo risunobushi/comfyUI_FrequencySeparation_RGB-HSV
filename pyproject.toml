@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_frequencyseparation_rgb-hsv"
+description = "A collection of simple nodes for Frequency Separation / Frequency Recombine with RGB and HSV methods"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/risunobushi/comfyUI_FrequencySeparation_RGB-HSV"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyUI_FrequencySeparation_RGB-HSV"
+Icon = ""
